@@ -13,4 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-2024 XYZ, Inc. agrega Fer
+_© 2022 XYZ, Inc._
+
